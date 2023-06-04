@@ -13,5 +13,5 @@
 </br>
 
 dependencies {
-	        implementation 'com.github.quangchienictu:AmazicSdkLibrary:Tag'
+	    implementation 'com.github.animusAZ:SDKAdmob:1.0.0'
 	}
