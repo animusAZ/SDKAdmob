@@ -12,6 +12,4 @@
 <h4>Native :</br>  com.amazic.admobMeditationSdk.adx.nativeAds</h4>
 </br>
 
-dependencies {
-	    implementation 'com.github.animusAZ:SDKAdmob:1.0.1'
-	}
+implementation 'com.github.animusAZ:SDKAdmob:1.0.2'
